@@ -2,6 +2,15 @@
 
 This project is an Uber clone application that provides real-time monitoring and notifications to users and captains using Socket.io. It also integrates Google Maps for location services and uses JWT for authentication. The frontend is built with React.js, and the backend server is built using Express in Node.js. MongoDB is used as the database.
 
+
+## Connect with Me
+
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin) [LinkedIn](www.linkedin.com/in/yajasvikhanna)
+- ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode) [LeetCode]([https://leetcode.com/your-username/](https://leetcode.com/u/yajasvikhanna/))
+
+
+
+
 ## Features
 
 - **JWT Authentication**: Secure authentication using JSON Web Tokens.
