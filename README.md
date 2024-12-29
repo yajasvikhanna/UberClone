@@ -3,8 +3,8 @@
 This project is an Uber clone application that provides real-time monitoring and notifications to users and captains using Socket.io. It also integrates Google Maps for location services and uses JWT for authentication. The frontend is built with React.js, and the backend server is built using Express in Node.js. MongoDB is used as the database.
 
 #Demo
-![Demo](./assets/demo1.gif)
-![Demo](./assets/demo.gif)
+![Demo](UberClone/uberClone/assets/demo1.gif)
+![Demo](UberClone/uberClone/assets/demo.gif)
 
 
 ## Connect with Me
