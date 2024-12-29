@@ -13,7 +13,7 @@ const rideRoutes = require('./routes/ride.routes');
 connectToDb();
 
 app.use(cors({
-    origin: 'http://localhost:5173', // Allow requests from your frontend
+    origin: 'https://uberclone-frontend.onrender.com', // Allow requests from your frontend
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     credentials: true
 }));
