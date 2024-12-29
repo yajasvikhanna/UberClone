@@ -5,8 +5,8 @@ This project is an Uber clone application that provides real-time monitoring and
 
 ## Connect with Me
 
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin) [LinkedIn](www.linkedin.com/in/yajasvikhanna)
-- ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode) [LeetCode]([https://leetcode.com/your-username/](https://leetcode.com/u/yajasvikhanna/))
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin) [LinkedIn](https://www.linkedin.com/in/yajasvikhanna)
+- ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode) [LeetCode](https://leetcode.com/u/yajasvikhanna/)
 
 
 
