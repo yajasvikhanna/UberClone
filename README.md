@@ -1,9 +1,9 @@
-# Uber Clone
+# Mobix Ride Sharing Application
 
-This project is an Uber clone application that provides real-time monitoring and notifications to users and captains using Socket.io. It also integrates Google Maps for location services and uses JWT for authentication. The frontend is built with React.js, and the backend server is built using Express in Node.js. MongoDB is used as the database.
+This project is an Mobix ride sharing application that provides real-time monitoring and notifications to users and captains using Socket.io. It also integrates Google Maps for location services and uses JWT for authentication. The frontend is built with React.js, and the backend server is built using Express in Node.js. MongoDB is used as the database.
 
 # Demo
-![Demo 1](uberClone/assets/demo1.gif)
+![Demo 1](uberClone/assets/Mobix_demo.gif)
 ![Demo 2](uberClone/assets/demo.gif)
 
 
